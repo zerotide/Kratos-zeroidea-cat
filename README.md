@@ -19,4 +19,4 @@ I accept donations through: Alipay / Wechat Pay / QQ Pay , thank you!
 - [User Domain Whitelist](https://wordpress.org/plugins/user-domain-whitelist/)
 - [Limit Login Attempts](https://wordpress.org/plugins/WP-UserAgent/)
 
-Blog [ZEROIDEA](https://zerotide.cn/) · GitHub [@zerotide](https://github.com/zerotide) · Twitter [@youka11](https://twitter.com/youka11)  ****
+Blog [ZEROIDEA](https://zerotide.cn/) · GitHub [@zerotide](https://github.com/zerotide) · Twitter [@Youka11](https://twitter.com/Yuoka11)  ****
